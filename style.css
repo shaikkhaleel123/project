@@ -1,0 +1,147 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+  }
+.context{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color: rgb(1, 7, 13);
+    padding-left: 15%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-right: 10%;
+}
+.banner{
+    display: flex;
+}
+.atme{
+    display: flex;
+}
+.cone{
+   width: 700px;
+   display: inline-block;
+   padding: 15px;
+   margin: 10px;
+   box-shadow: 0 0 10px rgb(6, 51, 109);
+}
+.ctwo{
+   width: 700px;
+   height: 250px;
+   display: inline-block;
+   padding: 15px;
+   margin: 10px;
+   box-shadow: 0 0 10px  rgb(6, 51, 109);
+}
+.courses{
+   display: flex; 
+}
+.atimg{
+    align-content: center;
+    padding-left: 27%;
+}
+.row{
+    color: rgb(1, 7, 13);
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.right{
+    padding-left: 7%;
+    font-size: 20px;
+}
+.left{
+    padding-left: 7%;
+    font-size: 20px;
+}
+.text{
+    text-align: center;
+    color: rgb(0, 3, 6);
+    font-size: 150%;
+}
+.homig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.linkedin{
+    width: 700px;
+    color: rgb(1, 8, 14);
+    height: 450px;
+    display: inline-block;
+    padding: 16px;
+    margin: 10px;
+    box-shadow: 0 0 10px rgb(3, 40, 88);
+    align-content: center;
+}
+#limg{
+    padding-left: 19%;
+    padding-top: 5%;
+}
+.insta{
+    width: 700px;
+    color: rgb(0, 5, 8);
+    height: 450px;
+    display: inline-flexbox;
+    padding: 16px;
+    margin: 10px;
+    box-shadow: 0 0 10px rgb(3, 40, 88);
+}
+#iimg{
+    padding-left: 14%;
+    padding-top: 5%;
+}
+.tabs{
+    display: flex;
+}
+.cont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 5, 9);
+}
+.upper{
+    display: flex;
+    padding: 15px;
+    text-align: center;
+}
+.n1
+{
+    padding-right: 10px;
+}
+.n2
+{
+    padding-right: 10px;
+}
+.n3
+{
+    padding-right: 10px;
+}
+.n4
+{
+    padding-right: 10px;
+}
+.but{
+    padding-left: 250px;
+    padding-top: 10px;
+}
+.middle{
+    display: flex;
+    text-align: center;
+    padding: 15px;
+}
+.image{
+    float: right;
+    padding: 5%;
+}
+.tas{
+    padding-top: 15px;
+    padding-left: 15px;
+}
+.ven{
+    display: flex;
+}
+.homig{
+    padding-top: 20px;
+}
+.icons{
+    display: flex;
+}
